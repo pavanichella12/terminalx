@@ -1,0 +1,37 @@
+
+INVESTMENT MEMO: APPLE INC. (AAPL)
+Date: January 15, 2025
+Analyst: Sarah Johnson
+
+EXECUTIVE SUMMARY
+Apple Inc. represents a compelling investment opportunity with strong fundamentals, innovative product pipeline, and robust financial performance. We recommend a BUY rating with a 12-month price target of $220.
+
+COMPANY OVERVIEW
+Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company operates through iPhone, Mac, iPad, Wearables, Home and Accessories, and Services segments.
+
+FINANCIAL ANALYSIS
+Revenue (TTM): $394.3 billion
+Net Income (TTM): $96.9 billion
+EPS (TTM): $6.16
+P/E Ratio: 28.5x
+ROE: 147.3%
+Debt-to-Equity: 1.56
+
+KEY INVESTMENT THESIS
+1. Strong Services Growth: Services revenue grew 9% YoY, now 22% of total revenue
+2. iPhone 15 Success: Strong demand for latest iPhone models
+3. AI Integration: Apple's AI strategy with Vision Pro and future products
+4. Shareholder Returns: $90 billion returned to shareholders in FY2024
+
+RISKS
+- Supply chain disruptions
+- Regulatory scrutiny
+- Intense competition in smartphone market
+- Economic downturn impact on consumer spending
+
+VALUATION
+DCF Analysis: $220 per share
+Comparable Analysis: $215 per share
+Target Price: $220 (15% upside)
+
+RECOMMENDATION: BUY

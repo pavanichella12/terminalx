@@ -1,0 +1,26 @@
+{
+  "^GSPC": {
+    "Open": {},
+    "High": {},
+    "Low": {},
+    "Close": {},
+    "Adj Close": {},
+    "Volume": {}
+  },
+  "^DJI": {
+    "Open": {},
+    "High": {},
+    "Low": {},
+    "Close": {},
+    "Adj Close": {},
+    "Volume": {}
+  },
+  "^IXIC": {
+    "Open": {},
+    "High": {},
+    "Low": {},
+    "Close": {},
+    "Adj Close": {},
+    "Volume": {}
+  }
+}
